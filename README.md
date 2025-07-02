@@ -1,4 +1,4 @@
-# artemis-2025
+# Ártemis-2025
 3kg sumo robot from Omegabotz - Facens
 
 This project has been in development since 2024. It's a cheap robot with BLDC, aluminum 7075, carbon steel gears, carbon fiber and 3D printed parts (ABS and TPU).
